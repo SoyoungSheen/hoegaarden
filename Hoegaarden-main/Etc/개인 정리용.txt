@@ -1,0 +1,19 @@
+1. Title : 맥주 
+ㄴ 호가든 상세 페이지
+Category - 브랜드소개 / 제품소개 / 이벤트
+
+Role 
+ㄴ Brand Story : 김경민 님
+ㄴ Product : 이미영 님
+ㄴ Event : 신소영 님
+
+문서화 작업 : 신소영 님 
+HD&FT 및 전체 코딩 : 강동우
+
+
+https://mexicana.webflow.io/
+https://www.hoegaarden.co.kr/
+
+
+참고 페이지 :
+https://www.cass.co.kr/
